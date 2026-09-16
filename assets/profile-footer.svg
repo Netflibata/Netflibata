@@ -1,7 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title">
   <title id="title">Build, learn and share</title>
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6d28d9"/><stop offset=".52" stop-color="#2563eb"/><stop offset="1" stop-color="#0891b2"/></linearGradient></defs>
-  <path d="M0 28C170 95 305 10 485 48s286 68 430 22 211-38 285-10v60H0Z" fill="url(#g)" opacity=".9"/>
-  <path d="M0 49c177 54 310-18 485 17s291 54 432 16 204-30 283-8v46H0Z" fill="#090d1c" opacity=".56"/>
-  <text x="600" y="98" text-anchor="middle" fill="#e0f2fe" font-family="Consolas,monospace" font-size="14" letter-spacing="3">BUILD  •  LEARN  •  SHARE</text>
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#dccbff"/><stop offset=".52" stop-color="#cbe1ff"/><stop offset="1" stop-color="#c7f1ef"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="7" dy="7" stdDeviation="8" flood-color="#afbdca" flood-opacity=".5"/><feDropShadow dx="-7" dy="-7" stdDeviation="8" flood-color="#ffffff"/></filter>
+  </defs>
+  <rect width="1200" height="140" fill="#eef3f8"/>
+  <path d="M20 40C190 108 320 24 500 60s276 62 420 20 191-37 260-17v59H20Z" fill="url(#wave)" filter="url(#shadow)"/>
+  <path d="M20 67c178 47 310-13 485 16s285 45 426 12 181-28 249-11v38H20Z" fill="#f7faff" opacity=".72"/>
+  <text x="600" y="112" text-anchor="middle" fill="#5f6f82" font-family="Consolas,monospace" font-size="14" font-weight="700" letter-spacing="3">BUILD  •  LEARN  •  SHARE</text>
 </svg>

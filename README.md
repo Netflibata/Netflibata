@@ -12,10 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=Netflibata&label=PROFILE+VIEWS&color=6A00F4&style=for-the-badge" alt="Profile views" />
 </a>
 <a href="https://github.com/Netflibata?tab=followers">
-  <img src="https://img.shields.io/github/followers/Netflibata?label=FOLLOWERS&style=for-the-badge&color=0077B6&labelColor=0D1117" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Netflibata?label=FOLLOWERS&style=for-the-badge&color=3B82F6&labelColor=E2E8F0" alt="GitHub followers" />
 </a>
 <a href="https://github.com/Netflibata?tab=repositories">
-  <img src="https://img.shields.io/badge/BUILDING-AI%20%26%20APPS-00B4D8?style=for-the-badge&labelColor=0D1117" alt="Building AI and applications" />
+  <img src="https://img.shields.io/badge/BUILDING-AI%20%26%20APPS-22B8CF?style=for-the-badge&labelColor=E2E8F0" alt="Building AI and applications" />
 </a>
 
 </div>
@@ -51,7 +51,7 @@ Ideas ─► Code ─► Product│
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,js,git,github,linux,vscode&theme=dark&perline=8" alt="Python, PyTorch, OpenCV, JavaScript, Git, GitHub, Linux and VS Code" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,js,git,github,linux,vscode&theme=light&perline=8" alt="Python, PyTorch, OpenCV, JavaScript, Git, GitHub, Linux and VS Code" />
   </a>
 </p>
 
@@ -107,7 +107,7 @@ Ideas ─► Code ─► Product│
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="72%" src="https://streak-stats.demolab.com?user=Netflibata&theme=tokyonight&hide_border=true&border_radius=14&locale=zh_Hans&mode=weekly" alt="GitHub contribution streak" />
+    <img width="72%" src="https://streak-stats.demolab.com?user=Netflibata&hide_border=true&border_radius=18&locale=zh_Hans&mode=weekly&background=EEF3F8&stroke=CBD5E1&ring=8B5CF6&fire=F59E0B&currStreakNum=334155&sideNums=475569&currStreakLabel=4F46E5&sideLabels=64748B&dates=94A3B8" alt="GitHub contribution streak" />
   </a>
 </p>
 
