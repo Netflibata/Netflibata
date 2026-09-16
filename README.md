@@ -89,6 +89,12 @@ Ideas ─► Code ─► Product│
   </a>
 </p>
 
+## 🆕 Latest Public Projects
+
+<!-- AUTO-PROJECTS:START -->
+> 此区域由 GitHub Actions 自动维护。新上传的公开项目会自动显示在这里。
+<!-- AUTO-PROJECTS:END -->
+
 ## 📊 Engineering Snapshot
 
 <div align="center">
