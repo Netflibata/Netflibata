@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,35:3A0CA3,70:0077B6,100:00B4D8&height=260&section=header&text=NETFLIBATA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Vision%20%E2%80%A2%20Mini%20Programs%20%E2%80%A2%20Open%20Source&descAlignY=57&descSize=19" alt="Netflibata header" />
+<img width="100%" src="./assets/profile-header.svg" alt="Netflibata — AI Vision, Mini Programs and Open Source" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=760&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Exploring+Computer+Vision+and+Deep+Learning;Building+with+YOLO26+%2B+Python;Creating+WeChat+Mini+Program+experiences;Always+learning%2C+always+creating+%E2%9C%A8" alt="Typing introduction" />
@@ -67,10 +67,10 @@ Ideas ─► Code ─► Product│
 <div align="center">
 
 <a href="https://github.com/Netflibata/YOLO26-Violation-Behavior-Recognition">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Netflibata&repo=YOLO26-Violation-Behavior-Recognition&theme=tokyonight&hide_border=true&border_radius=14&show_owner=true" alt="YOLO26 Violation Behavior Recognition repository" />
+  <img width="49%" src="./assets/project-yolo26.svg" alt="YOLO26 Violation Behavior Recognition repository" />
 </a>
 <a href="https://github.com/Netflibata/weixin-program-order">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Netflibata&repo=weixin-program-order&theme=tokyonight&hide_border=true&border_radius=14&show_owner=true" alt="WeChat ordering mini program repository" />
+  <img width="49%" src="./assets/project-wechat.svg" alt="WeChat ordering mini program repository" />
 </a>
 
 </div>
@@ -89,16 +89,11 @@ Ideas ─► Code ─► Product│
   </a>
 </p>
 
-## 📊 GitHub Analytics
+## 📊 Engineering Snapshot
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Netflibata&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&rank_icon=github&include_all_commits=true" alt="Netflibata GitHub statistics" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netflibata&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=14" alt="Most used languages" />
-</a>
+<img width="100%" src="./assets/engineering-snapshot.svg" alt="Netflibata engineering focus: AI vision, application development and practical delivery" />
 
 </div>
 
@@ -110,11 +105,9 @@ Ideas ─► Code ─► Product│
   </a>
 </p>
 
-## 📈 Contribution Activity
+## 📈 Development Pulse
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Netflibata&theme=tokyo-night&hide_border=true&radius=14&area=true&custom_title=Netflibata%27s%20Contribution%20Graph" alt="Contribution activity graph" />
-</a>
+<img width="100%" src="./assets/development-pulse.svg" alt="Development workflow from idea to open-source delivery" />
 
 ## 🧭 Build · Learn · Share
 
@@ -134,17 +127,17 @@ Ideas ─► Code ─► Product│
 
 <sub>✨ Profile powered by open-source projects</sub>
 
-[capsule-render](https://github.com/kyechan99/capsule-render) ·
 [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) ·
 [skill-icons](https://github.com/tandpfun/skill-icons) ·
-[github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ·
 [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) ·
-[github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) ·
 [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) ·
 [Shields.io](https://github.com/badges/shields)
 
 <br />
+<sub>Core profile artwork is stored in this repository for reliable rendering.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,35:0077B6,70:3A0CA3,100:6A00F4&height=130&section=footer" alt="Footer" />
+<br />
+
+<img width="100%" src="./assets/profile-footer.svg" alt="Build, learn and share" />
 
 </div>

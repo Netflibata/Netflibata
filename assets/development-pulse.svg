@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Development Pulse</title>
+  <desc id="desc">A workflow from idea through building, testing, learning, and sharing</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090d1c"/><stop offset="1" stop-color="#071b2b"/></linearGradient>
+    <linearGradient id="flow"><stop stop-color="#a855f7"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="2" y="2" width="1196" height="256" rx="20" fill="url(#bg)" stroke="#1e293b" stroke-width="2"/>
+  <text x="42" y="48" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">DEVELOPMENT PULSE</text>
+  <text x="1158" y="48" text-anchor="end" fill="#64748b" font-family="Consolas,monospace" font-size="13">KEEP SHIPPING_</text>
+  <path d="M120 148H1080" stroke="#1e293b" stroke-width="6" stroke-linecap="round"/>
+  <path d="M120 148C230 148 245 104 350 104S470 186 580 186 695 106 810 106 925 148 1080 148" fill="none" stroke="url(#flow)" stroke-width="4" filter="url(#glow)"/>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g><circle cx="120" cy="148" r="18" fill="#581c87" stroke="#c084fc" stroke-width="3"/><text x="120" y="204" fill="#c4b5fd" font-size="15" font-weight="700">IDEA</text><text x="120" y="225" fill="#64748b" font-size="12">observe</text></g>
+    <g><circle cx="350" cy="104" r="18" fill="#312e81" stroke="#818cf8" stroke-width="3"/><text x="350" y="204" fill="#c7d2fe" font-size="15" font-weight="700">BUILD</text><text x="350" y="225" fill="#64748b" font-size="12">implement</text></g>
+    <g><circle cx="580" cy="186" r="18" fill="#1e3a8a" stroke="#60a5fa" stroke-width="3"/><text x="580" y="204" fill="#bfdbfe" font-size="15" font-weight="700">TEST</text><text x="580" y="225" fill="#64748b" font-size="12">validate</text></g>
+    <g><circle cx="810" cy="106" r="18" fill="#164e63" stroke="#22d3ee" stroke-width="3"/><text x="810" y="204" fill="#a5f3fc" font-size="15" font-weight="700">LEARN</text><text x="810" y="225" fill="#64748b" font-size="12">improve</text></g>
+    <g><circle cx="1080" cy="148" r="18" fill="#065f46" stroke="#34d399" stroke-width="3"/><text x="1080" y="204" fill="#a7f3d0" font-size="15" font-weight="700">SHARE</text><text x="1080" y="225" fill="#64748b" font-size="12">open source</text></g>
+  </g>
+</svg>
