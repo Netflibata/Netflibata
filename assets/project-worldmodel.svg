@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="250" viewBox="0 0 1160 250" role="img" aria-labelledby="title desc">
+  <title id="title">WorldSculpt Video and Image to 3D</title>
+  <desc id="desc">A light neumorphic project card for room video reconstruction, point clouds, meshes and OpenUSD</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#9b6df2"/><stop offset=".48" stop-color="#5597f4"/><stop offset="1" stop-color="#48c9bd"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#e9dfff"/><stop offset="1" stop-color="#d7f3f4"/>
+    </linearGradient>
+    <filter id="shadow" x="-15%" y="-35%" width="130%" height="180%">
+      <feDropShadow dx="8" dy="8" stdDeviation="9" flood-color="#afbdca" flood-opacity=".56"/>
+      <feDropShadow dx="-8" dy="-8" stdDeviation="9" flood-color="#ffffff"/>
+    </filter>
+    <filter id="mini" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="3" dy="3" stdDeviation="4" flood-color="#b7c3cf" flood-opacity=".5"/>
+      <feDropShadow dx="-3" dy="-3" stdDeviation="4" flood-color="#ffffff"/>
+    </filter>
+  </defs>
+  <rect width="1160" height="250" fill="#eef3f8"/>
+  <rect x="16" y="16" width="1128" height="218" rx="28" fill="#eef3f8" filter="url(#shadow)"/>
+  <rect x="16" y="16" width="1128" height="7" rx="4" fill="url(#accent)"/>
+
+  <circle cx="70" cy="70" r="28" fill="url(#orb)" filter="url(#mini)"/>
+  <g fill="none" stroke="#588bdd" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M54 60l16-8 16 8v19l-16 9-16-9Z"/>
+    <path d="M54 60l16 9 16-9M70 69v19"/>
+  </g>
+  <text x="112" y="66" fill="#334155" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="750">WorldSculpt · Video / Image to 3D</text>
+  <text x="112" y="94" fill="#4d83d5" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">RGB ROOM RECONSTRUCTION  ·  POINT CLOUD  ·  MESH  ·  OPENUSD</text>
+  <text x="40" y="136" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="14.5">Deploys WorldSculpt and converts ordinary room video into production-ready 3D assets.</text>
+  <text x="40" y="161" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="14.5">Validated pipeline for COLMAP dense reconstruction, Poisson meshing, 4K previews, and USD export.</text>
+
+  <g font-family="Consolas,monospace" font-size="11.5" font-weight="700" text-anchor="middle" filter="url(#mini)">
+    <rect x="40" y="190" width="82" height="29" rx="14.5" fill="#e8deff"/><text x="81" y="209" fill="#6846b6">RGB VIDEO</text>
+    <text x="137" y="209" fill="#9aa8b8" font-size="16">→</text>
+    <rect x="153" y="190" width="82" height="29" rx="14.5" fill="#dce9ff"/><text x="194" y="209" fill="#356ba8">COLMAP</text>
+    <text x="250" y="209" fill="#9aa8b8" font-size="16">→</text>
+    <rect x="266" y="190" width="118" height="29" rx="14.5" fill="#dcecff"/><text x="325" y="209" fill="#396fae">POINT CLOUD</text>
+    <text x="399" y="209" fill="#9aa8b8" font-size="16">→</text>
+    <rect x="415" y="190" width="74" height="29" rx="14.5" fill="#d9f2f6"/><text x="452" y="209" fill="#287d8e">MESH</text>
+    <text x="504" y="209" fill="#9aa8b8" font-size="16">→</text>
+    <rect x="520" y="190" width="88" height="29" rx="14.5" fill="#daf5e6"/><text x="564" y="209" fill="#287b58">OPENUSD</text>
+  </g>
+
+  <g font-family="Segoe UI,Arial,sans-serif" filter="url(#mini)">
+    <rect x="850" y="126" width="118" height="34" rx="17" fill="#fff0cf"/><text x="909" y="148" text-anchor="middle" fill="#96620e" font-size="12" font-weight="700">PYTHON + CUDA</text>
+    <rect x="982" y="126" width="122" height="34" rx="17" fill="#e8deff"/><text x="1043" y="148" text-anchor="middle" fill="#6846b6" font-size="12" font-weight="700">WORLDSCULPT</text>
+    <text x="1104" y="205" text-anchor="end" fill="#4f8df7" font-size="13" font-weight="700">VIEW PROJECT  →</text>
+  </g>
+</svg>

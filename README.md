@@ -73,12 +73,19 @@ Ideas ─► Code ─► Product│
   <img width="49%" src="./assets/project-wechat.svg" alt="WeChat ordering mini program repository" />
 </a>
 
+<br />
+
+<a href="https://github.com/Netflibata/Worldmodel-use-video-or-img">
+  <img width="100%" src="./assets/project-worldmodel.svg" alt="WorldSculpt video and image to 3D reconstruction repository" />
+</a>
+
 </div>
 
 | Project | What it explores | Stack |
 |:---|:---|:---|
 | [**YOLO26 Violation Behavior Recognition**](https://github.com/Netflibata/YOLO26-Violation-Behavior-Recognition) | Automated labeling, model training, CPU/GPU inference, and video-stream monitoring | Python · YOLO26 · Computer Vision |
 | [**WeChat Mini Program Order**](https://github.com/Netflibata/weixin-program-order) | A practical menu and ordering experience built as a WeChat Mini Program | JavaScript · WeChat Mini Program |
+| [**WorldSculpt Video / Image to 3D**](https://github.com/Netflibata/Worldmodel-use-video-or-img) | Turns ordinary RGB room video into dense point clouds, meshes, 4K previews, and OpenUSD scenes | Python · WorldSculpt · COLMAP · OpenUSD · CUDA |
 
 <p align="center">
   <a href="https://github.com/Netflibata/YOLO26-Violation-Behavior-Recognition">
@@ -87,16 +94,15 @@ Ideas ─► Code ─► Product│
   <a href="https://github.com/Netflibata/weixin-program-order">
     <img src="https://img.shields.io/badge/EXPLORE-WECHAT_APP-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="Explore WeChat Mini Program" />
   </a>
+  <a href="https://github.com/Netflibata/Worldmodel-use-video-or-img">
+    <img src="https://img.shields.io/badge/EXPLORE-VIDEO_TO_3D-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Explore WorldSculpt video to 3D project" />
+  </a>
 </p>
 
 ## 🆕 Latest Public Projects
 
 <!-- AUTO-PROJECTS:START -->
-> 此区域每 6 小时自动刷新，按最近推送时间展示最多 6 个公开项目。
-
-| Project | Description | Main Language | Activity |
-|:---|:---|:---:|:---:|
-| [**Worldmodel-use-video-or-img**](https://github.com/Netflibata/Worldmodel-use-video-or-img) | A public project by Netflibata | — | ⭐ 0 · 2026-09-16 |
+> 此区域由 GitHub Actions 自动维护。新上传的公开项目会自动显示在这里。
 <!-- AUTO-PROJECTS:END -->
 
 ## 📊 Engineering Snapshot

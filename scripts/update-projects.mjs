@@ -7,6 +7,7 @@ const END_MARKER = "<!-- AUTO-PROJECTS:END -->";
 const FEATURED_REPOSITORIES = new Set([
   "YOLO26-Violation-Behavior-Recognition",
   "weixin-program-order",
+  "Worldmodel-use-video-or-img",
 ]);
 
 function escapeMarkdown(value) {
