@@ -102,7 +102,11 @@ Ideas ─► Code ─► Product│
 ## 🆕 Latest Public Projects
 
 <!-- AUTO-PROJECTS:START -->
-> 此区域由 GitHub Actions 自动维护。新上传的公开项目会自动显示在这里。
+> 此区域每 6 小时自动刷新，按最近推送时间展示最多 6 个公开项目。
+
+| Project | Description | Main Language | Activity |
+|:---|:---|:---:|:---:|
+| [**order-menu-url**](https://github.com/Netflibata/order-menu-url) | A public project by Netflibata | JavaScript | ⭐ 0 · 2026-09-21 |
 <!-- AUTO-PROJECTS:END -->
 
 ## 📊 Engineering Snapshot
