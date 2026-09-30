@@ -106,6 +106,7 @@ Ideas ─► Code ─► Product│
 
 | Project | Description | Main Language | Activity |
 |:---|:---|:---:|:---:|
+| [**hygrogen-uav-system**](https://github.com/Netflibata/hygrogen-uav-system) | A public project by Netflibata | HTML | ⭐ 0 · 2026-09-30 |
 | [**order-menu-url**](https://github.com/Netflibata/order-menu-url) | A public project by Netflibata | JavaScript | ⭐ 0 · 2026-09-21 |
 <!-- AUTO-PROJECTS:END -->
 
